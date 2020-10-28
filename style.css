@@ -1,0 +1,30 @@
+body {
+background: url(back.gif);
+background-size: 100%;
+color:white;
+font-family: Courier, serif;
+font-weight:bolder;
+font-variant:small-caps;
+font-style:italic;
+text-decoration:none;
+background-repeat:repeat;
+}
+a
+{
+  color:red;
+}
+h2
+{
+  color:red;
+}
+h3
+{
+  color:white !important;
+}
+h3
+{
+  color:green;
+}
+p strong{
+  color:red;
+}
